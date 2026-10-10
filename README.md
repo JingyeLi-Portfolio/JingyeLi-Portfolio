@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**Snug1222/Snug1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是李敬业 👋一名具有建筑学背景的游戏（关卡）策划求职者。
 
-Here are some ideas to get you started:
+**游戏关卡策划求职者｜建筑学背景｜Unity / UE5**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗️ 从建筑空间到游戏世界，用空间设计思维构建沉浸式体验。
+
+我相信，优秀的关卡不仅是场景的搭建，更是对空间、视线、路径与玩家体验的设计。
+
+建筑学专业训练让我关注空间尺度、动线组织与视觉引导；我在大学期间独立接手100+ 个三维空间搭建、场景制作、工图绘制与渲染项目的实践，让我积累了从空间规划到三维呈现的完整经验。目前，我正尝试将这些能力应用于游戏关卡设计与交互体验，并通过 Unity Demo 和 UE5 Demo 持续探索游戏空间的设计可能性。
+
+## 🎮 游戏项目 | GAME PROJECTS
+
+### Unity Demo 01 Borgo
+**项目类型：** FPS类CS地图白盒  
+**设计重点：** 关卡布局、空间组织、玩家体验  
+**项目展示：** 待补充截图 / 演示视频 / 设计文档
+
+### Unity Demo 02 Dam
+**项目类型：** FPS类CS地图白盒  
+**设计重点：** 玩法体验、场景构建、关卡原型  
+**项目展示：** 待补充截图 / 演示视频 / 设计文档
+
+## 🏛️ 空间设计 | SPATIAL DESIGN
+
+拥有 100+ 个三维空间搭建、场景制作与渲染项目经验，具备建筑空间分析、三维场景构建与视觉表现能力。
+
+- 空间布局与动线规划
+- 空间尺度、视线关系与场景节奏
+- 三维建模、场景搭建与灯光渲染
+- 建筑数字化测绘与三维场景还原
+
+我希望将建筑设计中的空间逻辑转化为游戏中的探索路线、场景引导与沉浸式体验。
+
+## 🛠️ 技能工具 | SKILLS
+
+- 游戏引擎：Unity、Unreal Engine 5
+- 三维建模：Rhino、SketchUp、Blender
+- 视觉设计：Photoshop、InDesign
+- 渲染表现：V-Ray、D5、Lumion
+- 辅助工作流：AIGC 工具、AI 辅助工作流
+
+## 🎯 设计理念 | DESIGN PHILOSOPHY
+
+空间不只是场景的容器，也是引导玩家行动、传递信息与塑造体验的媒介。
+关卡策划与设计绝不是纯空间设计，以建筑学视角设计出来的空间或许好用或好看，并不一定好玩。
+以建筑空间设计为基础，设计空间的组织、动线、尺度与视线关系；
+以FPS资深玩家的理解来优化合适玩家移动、战斗与决策好玩的空间。
+我希望通过持续的项目实践，探索空间布局、视觉引导与交互机制之间的联系，打造兼具可读性、探索感与沉浸感的游戏关卡。
+
+## 📬 联系方式 | CONTACT
+
+求职方向：游戏关卡策划 / Level Designer  
+邮箱：18836047668@163.com
+微信：Songs_Anga2
+
